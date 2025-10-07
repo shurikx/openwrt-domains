@@ -389,7 +389,7 @@ nftset=/xboxservices.com/4#inet#fw4#vps_eu
 nftset=/xboxstudios.com/4#inet#fw4#vps_eu
 nftset=/xbx.lv/4#inet#fw4#vps_eu
 #####Xlam#####
-nftset=/whoer.net/4#inet#fw4#vps_eu
+nftset=/ifconfig.co/4#inet#fw4#vpn_wg
 nftset=/showip.net/4#inet#fw4#vps_eu
 nftset=/fast.com/4#inet#fw4#vps_eu
 nftset=/10minutemail.com/4#inet#fw4#vps_eu
