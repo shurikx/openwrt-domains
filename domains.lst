@@ -1,3 +1,4 @@
+nftset=/openwrt.org/4#inet#fw4#vpn_wg
 #####bank#####
 nftset=/privatbank.ua/4#inet#fw4#vps_eu
 nftset=/privat24.ua/4#inet#fw4#vps_eu
