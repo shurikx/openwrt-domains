@@ -20,6 +20,7 @@ nftset=/onlineradiobox.com/4#inet#fw4#vps_eu
 nftset=/primevideo.com/4#inet#fw4#vps_eu
 nftset=/selezen.org/4#inet#fw4#vps_eu
 #####hdrezka#####
+nftset=/hdrezka-home.tv/4#inet#fw4#vpn_wg
 nftset=/hdrezka.ag/4#inet#fw4#vpn_wg
 nftset=/hdrezka.ac/4#inet#fw4#vpn_wg
 nftset=/hdrezka.me/4#inet#fw4#vpn_wg
@@ -29,6 +30,7 @@ nftset=/rezka.ag/4#inet#fw4#vpn_wg
 nftset=/rezka.my/4#inet#fw4#vpn_wg
 nftset=/rezkify.com/4#inet#fw4#vpn_wg
 nftset=/rezka-ua.in/4#inet#fw4#vpn_wg
+nftset=/statichdrezka.ac/4#inet#fw4#vpn_wg
 #####netflix#####
 nftset=/netflix.com/4#inet#fw4#vps_eu
 nftset=/nflxext.com/4#inet#fw4#vps_eu
