@@ -181,8 +181,9 @@ nftset=/video.google.com/4#inet#fw4#vps_eu
 nftset=/lookerstudio.google.com/4#inet#fw4#vps_eu
 nftset=/suggestqueries.google.com/4#inet#fw4#vps_eu
 nftset=/googletagmanager.com/4#inet#fw4#vps_eu
-nftset=/googleapis.l.google.com/4#inet#fw4#vps_eu
-nftset=/stun.l.google.com/4#inet#fw4#vps_eu
+nftset=/l.google.com/4#inet#fw4#vps_eu
+nftset=/apis.google.com/4#inet#fw4#vps_eu
+nftset=/l.googleusercontent.com/4#inet#fw4#vps_eu
 #####TV#####
 nftset=/android.apis.google.com/4#inet#fw4#vps_eu
 nftset=/embeddedassistant.googleapis.com/4#inet#fw4#vps_eu
