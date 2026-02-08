@@ -3,8 +3,6 @@ nftset=/stork.eee.215216777.xyz/4#inet#fw4#vpn_wg
 nftset=/bobcat.215216777.xyz/4#inet#fw4#vpn_wg
 nftset=/openwrt.org/4#inet#fw4#vpn_wg
 nftset=/dnscrypt.info/4#inet#fw4#vpn_wg
-nftset=/github.com/4#inet#fw4#vpn_wg
-nftset=/githubusercontent.com/4#inet#fw4#vpn_wg
 #####bank#####
 nftset=/privatbank.ua/4#inet#fw4#vps_eu
 nftset=/privat24.ua/4#inet#fw4#vps_eu
