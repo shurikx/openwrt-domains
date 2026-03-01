@@ -61,6 +61,7 @@ nftset=/tdesktop.com/4#inet#fw4#vpn_wg
 nftset=/telega.one/4#inet#fw4#vpn_wg
 nftset=/telegra.ph/4#inet#fw4#vpn_wg
 nftset=/telegram-cdn.org/4#inet#fw4#vpn_wg
+nftset=/telegram.com/4#inet#fw4#vpn_wg
 nftset=/telegram.dog/4#inet#fw4#vpn_wg
 nftset=/telegram.me/4#inet#fw4#vpn_wg
 nftset=/telegram.org/4#inet#fw4#vpn_wg
@@ -256,17 +257,22 @@ nftset=/cloudfront.net/4#inet#fw4#vpn_wg
 nftset=/copilot.microsoft.com/4#inet#fw4#vps_eu
 nftset=/designer.microsoft.com/4#inet#fw4#vps_eu
 nftset=/bing.com/4#inet#fw4#vpn_wg
-#####AppStore#####
-nftset=/decrypt.day/4#inet#fw4#vpn_wg
+nftset=/visualstudio.com/4#inet#fw4#vps_eu
+nftset=/vsassets.io/4#inet#fw4#vps_eu
+nftset=/vscode.dev/4#inet#fw4#vps_eu
 #####Texnologi i program#####
+nftset=/github.com/4#inet#fw4#vpn_wg
+nftset=/githubassets.com/4#inet#fw4#vpn_wg
+nftset=/githubusercontent.com/4#inet#fw4#vpn_wg
+nftset=/githubcopilot.com/4#inet#fw4#vpn_wg
+nftset=/habr.com/4#inet#fw4#vps_eu
+nftset=/gitlab.com/4#inet#fw4#vps_eu
+nftset=/grafana.com/4#inet#fw4#vps_eu
 nftset=/adguard.com/4#inet#fw4#vpn_wg
 nftset=/autodesk.com/4#inet#fw4#vps_eu
 nftset=/avira.com/4#inet#fw4#vpn_wg
 nftset=/adobe.com/4#inet#fw4#vps_eu
 nftset=/notepad-plus-plus.org/4#inet#fw4#vps_eu
-nftset=/habr.com/4#inet#fw4#vps_eu
-nftset=/gitlab.com/4#inet#fw4#vps_eu
-nftset=/grafana.com/4#inet#fw4#vps_eu
 nftset=/pcbway.com/4#inet#fw4#vps_eu
 nftset=/ti.com/4#inet#fw4#vps_eu
 nftset=/microchip.com/4#inet#fw4#vps_eu
@@ -360,6 +366,8 @@ nftset=/bestbuy.com/4#inet#fw4#vps_eu
 nftset=/digikey.com/4#inet#fw4#vps_eu
 nftset=/mouser.com/4#inet#fw4#vps_eu
 nftset=/olx.ua/4#inet#fw4#vps_eu
+#####AppStore#####
+nftset=/decrypt.day/4#inet#fw4#vpn_wg
 #####Gema#####
 nftset=/boosteroid.com/4#inet#fw4#vps_eu
 nftset=/chess.com/4#inet#fw4#vps_eu
