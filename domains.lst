@@ -1,5 +1,5 @@
-nftset=/openwrt.org/4#inet#fw4#vpn_wg
-nftset=/dnscrypt.info/4#inet#fw4#vpn_wg
+#####dnscry.pt#####
+nftset=/b-cdn.net/4#inet#fw4#vpn_wg
 #####bank#####
 nftset=/privatbank.ua/4#inet#fw4#vps_eu
 nftset=/privat24.ua/4#inet#fw4#vps_eu
@@ -47,8 +47,6 @@ nftset=/signal.org/4#inet#fw4#vpn_wg
 nftset=/simplex.chat/4#inet#fw4#vpn_wg
 nftset=/simplex.im/4#inet#fw4#vpn_wg
 nftset=/ru-board.com/4#inet#fw4#vps_eu
-#####R.Lub#####
-nftset=/cxem.net/4#inet#fw4#vps_eu
 #####Telegram#####
 nftset=/cdn-telegram.org/4#inet#fw4#vpn_wg
 nftset=/comments.app/4#inet#fw4#vpn_wg
@@ -260,22 +258,26 @@ nftset=/bing.com/4#inet#fw4#vpn_wg
 nftset=/visualstudio.com/4#inet#fw4#vps_eu
 nftset=/vsassets.io/4#inet#fw4#vps_eu
 nftset=/vscode.dev/4#inet#fw4#vps_eu
+#####R.Lub#####
+nftset=/cxem.net/4#inet#fw4#vps_eu
+nftset=/pcbway.com/4#inet#fw4#vps_eu
+nftset=/ti.com/4#inet#fw4#vps_eu
+nftset=/microchip.com/4#inet#fw4#vps_eu
 #####Texnologi i program#####
 nftset=/github.com/4#inet#fw4#vpn_wg
+nftset=/github.io/4#inet#fw4#vpn_wg
 nftset=/githubassets.com/4#inet#fw4#vpn_wg
 nftset=/githubusercontent.com/4#inet#fw4#vpn_wg
 nftset=/githubcopilot.com/4#inet#fw4#vpn_wg
 nftset=/habr.com/4#inet#fw4#vps_eu
 nftset=/gitlab.com/4#inet#fw4#vps_eu
+nftset=/gitlab.io/4#inet#fw4#vps_eu
 nftset=/grafana.com/4#inet#fw4#vps_eu
 nftset=/adguard.com/4#inet#fw4#vpn_wg
 nftset=/autodesk.com/4#inet#fw4#vps_eu
 nftset=/avira.com/4#inet#fw4#vpn_wg
 nftset=/adobe.com/4#inet#fw4#vps_eu
 nftset=/notepad-plus-plus.org/4#inet#fw4#vps_eu
-nftset=/pcbway.com/4#inet#fw4#vps_eu
-nftset=/ti.com/4#inet#fw4#vps_eu
-nftset=/microchip.com/4#inet#fw4#vps_eu
 #####
 nftset=/adminforge.de/4#inet#fw4#vps_eu
 nftset=/amazfitwatchfaces.com/4#inet#fw4#vps_eu
@@ -435,3 +437,4 @@ nftset=/deepstatemap.live/4#inet#fw4#vps_eu
 nftset=/extremetech.com/4#inet#fw4#vps_eu
 nftset=/golosameriki.com/4#inet#fw4#vps_eu
 nftset=/liveuamap.com/4#inet#fw4#vps_eu
+
