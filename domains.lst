@@ -67,11 +67,6 @@ nftset=/tx.me/4#inet#fw4#vps_wg
 nftset=/usercontent.dev/4#inet#fw4#vps_wg
 #####Meta#####
 nftset=/meta.com/4#inet#fw4#srv_eu
-#####Whatsapp#####
-nftset=/whatsapp.com/4#inet#fw4#vps_wg
-nftset=/whatsapp.net/4#inet#fw4#vps_wg
-nftset=/whatsapp.biz/4#inet#fw4#vps_wg
-nftset=/wa.me/4#inet#fw4#vps_wg
 #####Instagram#####
 nftset=/instagram.com/4#inet#fw4#srv_eu
 nftset=/ig.me/4#inet#fw4#srv_eu
@@ -393,7 +388,6 @@ nftset=/opensea.io/4#inet#fw4#srv_eu
 nftset=/paypal.com/4#inet#fw4#srv_eu
 nftset=/privatekeys.pw/4#inet#fw4#srv_eu
 #####Xlam#####
-nftset=/ifconfig.co/4#inet#fw4#vps_wg
 nftset=/showip.net/4#inet#fw4#srv_eu
 nftset=/fast.com/4#inet#fw4#srv_eu
 nftset=/10minutemail.com/4#inet#fw4#vps_wg
