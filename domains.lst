@@ -33,9 +33,7 @@ nftset=/nflxext.com/4#inet#fw4#srv_eu
 nftset=/nflximg.net/4#inet#fw4#srv_eu
 nftset=/nflxvideo.net/4#inet#fw4#srv_eu
 #####Forum_Socset#####
-nftset=/4pda.ru/4#inet#fw4#srv_eu
 nftset=/4pda.to/4#inet#fw4#srv_eu
-nftset=/4pda.ws/4#inet#fw4#srv_eu
 nftset=/4pna.com/4#inet#fw4#vps_wg
 nftset=/guilded.gg/4#inet#fw4#srv_eu
 nftset=/lolz.guru/4#inet#fw4#vps_wg
