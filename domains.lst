@@ -17,9 +17,6 @@ nftset=/primevideo.com/4#inet#fw4#srv_eu
 #####hdrezka#####
 nftset=/hdrezka-home.tv/4#inet#fw4#vps_wg
 nftset=/hdrezka.me/4#inet#fw4#vps_wg
-nftset=/hd-rezka.tv/4#inet#fw4#vps_wg
-nftset=/voidboost.cc/4#inet#fw4#vps_wg
-nftset=/voidboost.com/4#inet#fw4#vps_wg
 nftset=/rezka.ag/4#inet#fw4#vps_wg
 nftset=/rezkify.com/4#inet#fw4#vps_wg
 nftset=/rezka-ua.in/4#inet#fw4#vps_wg
@@ -27,7 +24,9 @@ nftset=/statichdrezka.ac/4#inet#fw4#vps_wg
 nftset=/hdrezka.pub/4#inet#fw4#vps_wg
 nftset=/hdrezka.sh/4#inet#fw4#vps_wg
 nftset=/hdrzk.org/4#inet#fw4#vps_wg
-nftset=/hdrezka.tech/4#inet#fw4#vps_wg
+nftset=/voidboost.cc/4#inet#fw4#vps_wg
+nftset=/voidboost.com/4#inet#fw4#vps_wg
+nftset=/hd-rezka.tv/4#inet#fw4#vps_wg
 #####netflix#####
 nftset=/netflix.com/4#inet#fw4#srv_eu
 nftset=/nflxext.com/4#inet#fw4#srv_eu
